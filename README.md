@@ -1,5 +1,5 @@
 # Ad-Board
-Ad Board is a simple web application that allows users to post and view ads. It provides a platform for users to post advertisements, search for ads by keywords, and manage their own ads.
+Ad Board is a simple terminal application that allows users to post and view ads. It provides a platform for users to post advertisements, search for ads by keywords, and manage their own ads.
 
 ## Getting Started
 
